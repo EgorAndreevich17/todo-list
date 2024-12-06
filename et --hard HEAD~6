@@ -1,0 +1,65 @@
+[33mcommit ad5fca77c55a6829f0b59d685059b1a91e027219[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: EgorAndreevich17 <theonlyegor1709@gmail.com>
+Date:   Mon Oct 14 18:22:08 2024 +0300
+
+    deployed, all done
+
+[33mcommit afaf69f237d35c728552de4532a2728e402b9781[m
+Author: EgorAndreevich17 <theonlyegor1709@gmail.com>
+Date:   Mon Oct 14 18:19:15 2024 +0300
+
+    added sass
+
+[33mcommit 1f8e0a3a47bc0c1a5d0103194a1ec9228a9a7e5e[m
+Author: Egor Andreevich <theonlyegor1709@gmail.com>
+Date:   Sun Oct 13 14:29:56 2024 +0300
+
+    re installed everything
+
+[33mcommit 145fd8f70d69f9bf8b5924f11a19af356160b80e[m
+Author: Egor Andreevich <theonlyegor1709@gmail.com>
+Date:   Sun Oct 13 14:21:38 2024 +0300
+
+    changed timer of todos
+
+[33mcommit 1fc33129bb0a4de5bab757d741e77c0fb4904753[m
+Author: Ivan Ostashchenko <147530896+IvanOstaschenko@users.noreply.github.com>
+Date:   Tue Sep 10 04:08:33 2024 +0300
+
+    изменил md Добавил ссылку
+
+[33mcommit 65dfafb58c885ddb4f9cdd384b3d2800ad1b1b3f[m
+Author: Ivan Ostashchenko <147530896+IvanOstaschenko@users.noreply.github.com>
+Date:   Tue Sep 10 03:41:55 2024 +0300
+
+    изменил md
+
+[33mcommit 288bc169223d9f9e80b7d260e015aab15d5b3c71[m
+Merge: 3083350 6109424
+Author: Ivan Ostashchenko <147530896+IvanOstaschenko@users.noreply.github.com>
+Date:   Tue Sep 10 03:37:33 2024 +0300
+
+    Merge remote-tracking branch 'origin/main'
+    
+    # Conflicts:
+    #       README.md
+
+[33mcommit 3083350928446966a7d39854594faccd36e4becf[m
+Author: Ivan Ostashchenko <147530896+IvanOstaschenko@users.noreply.github.com>
+Date:   Sun Sep 8 17:23:00 2024 +0300
+
+    finished todo list
+
+[33mcommit 61094243bd0676a41e6d107f92d69c806eaeeeba[m
+Author: Ivan Ostashchenko <147530896+IvanOstaschenko@users.noreply.github.com>
+Date:   Sun Sep 8 17:23:00 2024 +0300
+
+    Update README.md
+    
+    update readme.md
+
+[33mcommit 054b55004d2bbd05d4fed5a9e4c92e0e11bd3abb[m
+Author: Ivan Ostashchenko <147530896+IvanOstaschenko@users.noreply.github.com>
+Date:   Sun Sep 8 17:16:38 2024 +0300
+
+    repo init
